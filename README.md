@@ -2,5 +2,5 @@
 A javascript-based Quiz game about Naruto anime. Hey, the questions are hard, but give it a try!
 
 ## # Techs
-* HTML
+* HTML ![fa-crown](html.png)
 * CSS
