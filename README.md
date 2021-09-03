@@ -3,6 +3,9 @@
 # # naruto-quiiz
 A javascript-based Quiz game with timer & language switcher (english and portuguese) about Naruto anime. Hey, the questions are hard, but give it a try!
 
+## # Demo
+<a href="https://narutoquiiz.netlify.app/">Click here to view</a>
+
 ## # Techs
 - <img align="center" alt="Thauã-HTML" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"> HTML 5
 - <img align="center" alt="Thauã-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> CSS 3
