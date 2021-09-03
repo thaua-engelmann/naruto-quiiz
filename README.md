@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
 
 # # naruto-quiiz
-A javascript-based Quiz game with timer about Naruto anime. Hey, the questions are hard, but give it a try!
+A javascript-based Quiz game with timer & language switcher (english and portuguese) about Naruto anime. Hey, the questions are hard, but give it a try!
 
 ## # Techs
 - <img align="center" alt="Thauã-HTML" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"> HTML 5
