@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
 
-# # naruto-quiiz
+# # naruto-quiz
 A javascript-based Quiz game with timer & language switcher (english and portuguese) about Naruto anime. Hey, the questions are hard, but give it a try!
 
 ## # Demo
